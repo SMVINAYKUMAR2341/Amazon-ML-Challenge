@@ -1,0 +1,32 @@
+# Requirements for Smart Product Pricing Challenge
+# ML Challenge 2025
+
+# Core Libraries
+pandas>=1.3.0
+numpy>=1.21.0
+scikit-learn>=1.0.0
+
+# Machine Learning Models
+xgboost>=1.5.0
+lightgbm>=3.3.0
+catboost>=1.0.0
+
+# Utilities
+joblib>=1.1.0
+tqdm>=4.62.0
+
+# Data Visualization
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Text Processing
+nltk>=3.6.0
+
+# Optional (for image processing if needed)
+# pillow>=8.3.0
+# torch>=1.10.0
+# torchvision>=0.11.0
+
+# Jupyter
+jupyter>=1.0.0
+ipykernel>=6.0.0
