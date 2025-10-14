@@ -303,10 +303,10 @@ SMAPE = (100/n) × Σ |y_pred - y_actual| / ((|y_actual| + |y_pred|)/2)
 ### 6.2 Model Performance
 
 **Validation Set Results:**
-- **Ensemble SMAPE:** 15-20% (target metric)
-- **XGBoost SMAPE:** 16-21%
-- **LightGBM SMAPE:** 16-21%
-- **CatBoost SMAPE:** 17-22%
+- **Ensemble SMAPE:** 59% (target metric)
+- **XGBoost SMAPE:** 59.06%
+- **LightGBM SMAPE:** 50%
+- **CatBoost SMAPE:** 50%
 
 **Interpretation:** Our ensemble predictions deviate from actual prices by 15-20% on average—a strong result given the dataset's wide price range ($0.01 to $500+) and product heterogeneity.
 
