@@ -1,7 +1,7 @@
 # ML Challenge 2025: Smart Product Pricing Solution
 
 **Team Name:** 4STARS  
-**Team Members:** Rahul Mahato, SM VINAY KUMAR, RITIKA BISWAS, S M Yogeesh  
+**Team Members:** SM VINAY KUMAR
 **Submission Date:** October 12, 2025
 
 ---
